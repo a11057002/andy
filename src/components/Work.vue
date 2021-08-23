@@ -70,12 +70,12 @@ export default {
         },
         {
           title: 'KKWOO',
-          tags: ['HTML', 'CSS3', 'Javascript', 'jQuery'],
+          tags: ['HTML', 'CSS3', 'Javascript', 'jQuery','python'],
           image: Kkwoo_Image,
           link: 'https://hackathon.ntouo.tw/',
           description: [
-            '',
-            ''
+            '串接 kkbox api',
+            '將聽相似類型的使用者配對進行聊天'
             ]
         },
         {
@@ -91,7 +91,7 @@ export default {
         },
         {
           title: 'Line Notify 通知上下班',
-          tags:['C#','windows Form','Line','SQL','oauth'],
+          tags:['C#','windows Form','Line','SQL'],
           image:LineNotify_Image,
           description:[
             'Windows 服務',
